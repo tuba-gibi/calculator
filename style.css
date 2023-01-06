@@ -35,6 +35,7 @@
 .item:hover{
   opacity: .8;
   color: yellowgreen;
+  cursor: all-scroll;
 }
 .yell:hover{
   color: tomato;
